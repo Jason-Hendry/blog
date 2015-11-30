@@ -5,5 +5,5 @@ title = "12 factor apps"
 
 +++
 
-## 12 Factor Apps
 
+http://12factor.net/

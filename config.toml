@@ -1,3 +1,14 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-au"
 title = "Blog - Rain Systems"
+baseurl = "http://blog.rain.systems/"
+canonifyurls = true
+theme = "hugo-zen"
+
+[params]
+  logo      = "/images/Cropped-200x200.jpg"
+  copyright = "Jason Hendry All rights reserved."
+  twitter   = "https://twitter.com/Jason_Hendry"
+  facebook  = "https://www.facebook.com/jason-hendry"
+  github    = "https://github.com/Jason-Hendry/"
+  email     = "jason@rain.com.au"
+  analytics = "UA-141791-12"

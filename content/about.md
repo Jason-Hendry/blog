@@ -8,10 +8,3 @@ title = "About"
 ## About Me
 
 Jason Hendry, Qualified Programmer, Self Taught Manager
-
-```go
-func this() {
-
-
-}
-```
